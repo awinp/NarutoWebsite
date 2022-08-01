@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    font-size: 15px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+a{
+    color: lightblue;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: purple;
+}
+.names li {
+    color: red;
+    list-style: circle;
+}
+section{
+    border: 0px solid red;
+    font-size: 20px;
+
+}
+p{
+    color: blueviolet;
+}
+h1{
+    text-decoration: underline;
+    color: red;
+}
+li{
+    color: green;
+}
